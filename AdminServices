@@ -1,0 +1,8 @@
+make admin obj
+make admin pass
+mmake admin user
+
+add books
+delete books
+add memebrs 
+delete memebrs
