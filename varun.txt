@@ -1,2 +1,7 @@
 hello this is my file to push into git repo
 this is varun soni
+
+Professional Details:
+i am a student at VCET COLLEGE
+i am going BE In Information Technology
+I Want to become A java Developer
